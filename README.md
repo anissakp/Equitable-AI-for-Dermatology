@@ -2,9 +2,12 @@
 
 ### **👥 Team Members**
 | Ashley Bao | @ashleybao | contribution |
-| Aimee Hong | @aimeehong1 |  |
-| Varsha Athreya | @varsha487 |  |
-| Anissa Patel | @anissakp |  |
+
+| Aimee Hong | @aimeehong1 | contribution |
+
+| Varsha Athreya | @varsha487 | contribution |
+
+| Anissa Patel | @anissakp | contribution |
 
 ## **🎯 Project Highlights**
 
