@@ -2,8 +2,6 @@
 
 ## **🎯 Project Highlights**
 
-**Example:**
-
 * [ADD] Built a \[insert model type\] using \[techniques used\] to solve \[Kaggle competition task\]
 * [ADD] Achieved an F1 score of \[insert score\] and a ranking of \[insert ranking out of participating teams\] on the final Kaggle Leaderboard
 * [ADD] Used \[explainability tool\] to interpret model decisions
@@ -37,15 +35,11 @@ The Fitzpatrick Scale graph visualizes the different skin types present in the d
 
 ## **🧠 Model Development**
 
-**Describe (as applicable):**
-
 * [ADD] Model(s) used (e.g., CNN with transfer learning, regression models)
 * [ADD] Feature selection and Hyperparameter tuning strategies
 * [ADD] Training setup (e.g., % of data for training/validation, evaluation metric, baseline performance)
 
 ## **📈 Results & Key Findings**
-
-**Describe (as applicable):**
 
 * Placed 19/74 on Kaggle Competition Leaderboard
 * [ADD] How your model performed overall
