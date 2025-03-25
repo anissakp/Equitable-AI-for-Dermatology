@@ -44,8 +44,6 @@ The Fitzpatrick Scale graph visualizes the different skin types present in the d
 * Feature selection and Hyperparameter tuning strategies
 * Training setup (e.g., % of data for training/validation, evaluation metric, baseline performance)
 
----
-
 ## **📈 Results & Key Findings**
 
 **Describe (as applicable):**
