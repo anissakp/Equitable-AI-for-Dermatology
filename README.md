@@ -1,14 +1,5 @@
 # Equitable AI for Dermatology
 
-## **👥 Team Members**
-| Ashley Bao | @ashleybao | contribution |
-
-| Aimee Hong | @aimeehong1 | contribution |
-
-| Varsha Athreya | @varsha487 | contribution |
-
-| Anissa Patel | @anissakp | contribution |
-
 ## **🎯 Project Highlights**
 
 **Example:**
@@ -45,7 +36,6 @@ The Fitzpatrick Scale graph visualizes the different skin types present in the d
 
 <img src="https://github.com/user-attachments/assets/2272bd20-0025-40d7-acd2-68f2375c79d6" alt="Fitzpatrick Scale" width="275" height="200">
 
-
 ## **🧠 Model Development**
 
 **Describe (as applicable):**
@@ -68,6 +58,15 @@ The Fitzpatrick Scale graph visualizes the different skin types present in the d
 **Potential visualizations to include:**
 
 * Confusion matrix, precision-recall curve, feature importance plot, prediction distribution, outputs from fairness or explainability tools
+
+## **👥 Team Members**
+| Ashley Bao | @ashleybao | contribution |
+
+| Aimee Hong | @aimeehong1 | contribution |
+
+| Varsha Athreya | @varsha487 | contribution |
+
+| Anissa Patel | @anissakp | contribution |
 
 
 
