@@ -1,6 +1,6 @@
 # Equitable AI for Dermatology
 
-### **👥 Team Members**
+## **👥 Team Members**
 | Ashley Bao | @ashleybao | contribution |
 
 | Aimee Hong | @aimeehong1 | contribution |
